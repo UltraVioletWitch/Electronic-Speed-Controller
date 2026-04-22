@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "libdb")(type "Database")(uri "${KICAD_PARTS_DATABASE}/libdb.kicad_dbl")(options "")(descr ""))
+)
